@@ -1,4 +1,4 @@
 ## CSCI Artificial Intelligence
-### Othello Artificial Intelligence
+### Othello (Reversi) Artificial Intelligence
 
 @Kenny Tram
