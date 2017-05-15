@@ -1,2 +1,4 @@
-# AI_Othello
-Othello Artificial Intelligence
+## CSCI Artificial Intelligence
+### Othello Artificial Intelligence
+
+@Kenny Tram
